@@ -1,1 +1,2 @@
 aho subor file1.txt
+edit vb b1
